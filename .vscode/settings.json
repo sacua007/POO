@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./Personaje juego"
+    ],
+    "python-envs.pythonProjects": [
+        {
+            "path": "Personaje juego",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
